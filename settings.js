@@ -11,14 +11,22 @@ global.APIKeys = {
 	'https://zenzapis.xyz': 'your key',
 }
 
-global.alivemsg = `👽🐰🇮‌αм яє∂яу➸➤⃝💖🔴⚡
-🤷‍😉
+global.alivemsg = `☢️🔰🅂🄰🄽🅄.🇩‌ Bot ☘
+
+*_~👀🍃🪄Hey😚🥂♥~_*
+
+     ️♡ ㅤ      ❍ㅤ        ⎙ㅤ    ⌲ 
+
+☎0767256289
+
+
 ❝වැරදුනු තැන්මයි
 
 පාඩම් දුන්නෙ 
 
 පොත් පිරෙන්නම🙂❞
 
+   ➤ѕαηυ❀-
 ` //Costomize Alive Message (type your message in `` )
 
 
@@ -59,7 +67,7 @@ global.ownertag = '+94715626919' //your tag number
 global.botname = '➸➤⚡🤍𝙎𝘼𝙉𝙐.𝘿🐰💖ᬊ➤- 𝘉𝘖𝘛' //ur bot name
 global.packname = "Bot Sticker" // sticker packname
 global.author = "🔴🏳️🪄𝙎𝘼𝙉𝙐Ⓓ.4𝖐🌟⚡🐰✨༒᭄" // sticker author
-global.dragonemoji = '⛎' // Menu emoji
+global.dragonemoji = '☯' // Menu emoji
 global.footer = '[ ◉ ʀᴇᴅ-ᴅʀᴀɢᴏɴ-ᴍᴅ ]' //
 
 //database
@@ -68,17 +76,17 @@ global.premium = ['+380944814219'] //ur premium numbers
 //other
 global.sessionName = 'session'
 global.antitags = false
-global.prefa = ['','!','.','😂','❤️','💠'] //Command Prefix eg:(.alive ,alive 😂alive)
-global.sp = '💠'
+global.prefa = ['','!','.','😂','❤️','⚈'] //Command Prefix eg:(.alive ,alive 😂alive)
+global.sp = '☸'
 global.mess = {
-    success: 'Done 🙂✔',
+    success: '🐰ඉවරයි ⛔🙂',
     admin: 'Only Admins can use it!😉',
     botAdmin: 'Bot wants to be an Admin😥',
     owner: 'Only Owner can use this!😉',
     group: 'Feature Used Only For Groups!',
     private: 'This Features Only For Private Chat!',
     bot: 'This Feature Is Only For Bot😝',
-    wait: '👽🙂Pleas Wait...',
+    wait: '🥰පොඩ්ඩක් ৫ඉන්න මැණික🧸🤪',
     error: 'Error!!! Maybe Api Key Is Expired🤔!',
     endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
     linkm: 'Where is the link?',
@@ -174,7 +182,7 @@ global.rep = { // All Replies = 145
     K3: '😉🫶හායි😂',
     K4: '🥴හූයි😊',
     K5: '😂හේයි, හව් ආ යූ🥴✌️',
-    K6: '😁Hey there💝 I am WhatsApp Bot😏',
+    K6: '😁Hey there💝 ❀sanu Baba 🐰🤍🧸😏',
     K7: '❣️ඇයි හලෝ😌',
     K8: '🙃මොකෝ හලෝ🥲',
     K9: '😒මොකෝ?',
